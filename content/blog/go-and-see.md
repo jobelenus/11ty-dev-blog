@@ -19,7 +19,7 @@ In order for myself to get a handle on my views as a leader, I came up with over
 
 I felt like I was making a directory, so when folks asked questions, whether in Slack, or an interview, or just having a conversation about work with a friend, I had responses that I had thought through, rather than trying to formulate a comprehensive approach in the moment. That approach has limited explanatory power and utility.
 
-This year has been an amazing experience at $currentGig. We've been making lots of product changes, adding features, removing other approaches, rebuilding product experiences left and right, and aggressively going to market where we are learning a ton.
+2025 was an amazing experience at System Initiative. We've been making lots of product changes, adding features, removing other approaches, rebuilding product experiences left and right, and aggressively going to market where we are learning a ton.
 
 Reflecting on the decisions we've made, I realized there was no way that I could point at my prepared tactics as having a forceful influence on my thinking. I still believe them, and see where they would have fit, but I was retrofitting it backwards onto a decision, rather than in the moment realizing I was leaning on something I built up mentally beforehand.
 
