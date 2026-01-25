@@ -23,11 +23,12 @@ As you may have guessed, I am extremely comfortable with the word failure. I thi
 How should we approach creative problem solving in a world where failure is common, the value we produce is unclear, and it is impossible to determine the return on investment? *That* is the framing in which I look at Product Engineering organizations.
 
 This is my answer to the question:
-1 Define the problem to solve in great detail
-2 When you lack details to define the problem make the smallest investment to get more information
-3 When everyone agrees on the problem, brainstorm multiple solutions
-4 Attempt an MVP solution with the least investment required
-5 Put the solution in front of real people with the problem and see how valuable they find it
+
+1. Define the problem to solve in great detail
+2. When you lack details to define the problem make the smallest investment to get more information
+3. When everyone agrees on the problem, brainstorm multiple solutions
+4. Attempt an MVP solution with the least investment required
+5. Put the solution in front of real people with the problem and see how valuable they find it
 
 This is where I bring up the phrase I wrote down in my previous article:
 
