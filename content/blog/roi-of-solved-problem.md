@@ -29,12 +29,15 @@ This is my answer to the question:
 3. When everyone agrees on the problem, brainstorm multiple solutions
 4. Attempt an MVP solution with the least investment required
 5. Put the solution in front of real people with the problem and see how valuable they find it
+6. Iterate. Over, and over, and over. Until you’re very tired of it.
 
 This is where I bring up the phrase I wrote down in my previous article:
 
 > The answer is not in this room. If it was, we would have solved the problem already. The answer is *out there* somewhere.
 
 No. 5 cannot be answered by anyone in your organization. Only actual customers can answer that for you. As a reminder, it's extremely likely that you will fail to produce actual value every time. Failure is the default. You ought to have every freedom to decide “this is the wrong problem,” or “this is the wrong solution, let's try another.” If you’re following this pattern you are going to gain lots of data along the way, you ought to be rethinking how much investment specific solutions require. And which problems are valuable.
+
+No. 6 I think is where the rubber meets the road and what separates organizations that take this kind of approach seriously from those who do not. Iteration is what turns failure to success. There are a million reasons I have seen organizations not iterate. The engineering and product managers are too busy; “Just tell me when you’re done with this Epic, I don’t need to be involved”. Or, “we all assume what we decided is correct and all the users will love it, so we don’t need to check!” To define a problem in great detail and choose an MVP you are going to iterate on is difficult, and not without conflict. Which is one more reason I have seen teams avoid it. You end up with a large project that takes up lots of time, and is incredibly difficult to determine if it was successful in its goal or not. While no one was uncomfortable in a moment of conflict, I’m willing to bet almost everyone was confused at one point or another as to what we’re really trying to do here.
 
 If you asked me to paint a picture of what this looks like across a Product Engineering organization I would say:
 - Small autonomous groups of people working together daily.
@@ -46,3 +49,6 @@ If you asked me to paint a picture of what this looks like across a Product Engi
 
 Product Engineering is not *all* of Engineering, but it is the organization that needs to spend its energy exploring. Exploration is its own specific kind of activity with its own modus operandi. The rest of Engineering has its own MO, neither is it a cost center either. These organizations *must* mutually reinforce each other.
 
+
+---
+Previous article in this series: [Go And See](./go-and-see.md)
