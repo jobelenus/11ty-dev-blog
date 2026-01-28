@@ -52,7 +52,3 @@ One of the phrases that I will repeat in these moments is: "The answer is not in
 Go And See. All leaders are tremendously busy. You are not always on the front line. There are some front lines you likely have not seen in a few years. It happens. You have to get back to the front line in those moments. And you need to advise the folks that report to you to go back to the front lines themselves. Get out of your comfort zone. Get out of the rooms you normally live in. If the answers to your problems were there you would have already solved the problems.
 
 Now the act of “Go and See” that you perform should be timely and aggressive. A problem showed up on your doorstep. You can’t solve it without information you don’t have. You shouldn’t schedule a meeting for three days from now. Or ask someone to follow up with you without a constraint. If the data is outside your org and out in the market where the potential customers are, I hope reaching out is a motion you have practiced and have some repetitions under your belt.
-
----
-
-Next article in this series: [Work As Imagined](./roi-of-solved-problem.md)

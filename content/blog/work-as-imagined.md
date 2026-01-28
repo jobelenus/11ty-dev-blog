@@ -25,10 +25,3 @@ Engineers should work together writing code. Product and Engineers should work t
 A very common anti-pattern that I see in organizations is each of the disciplines working alone, and then everyone coming together to discuss status for an hour a week. Every engineer will tell you that typing the code is not the slow part of the project. Every designer will tell you that clicking in Figma is not the slow part of the project. Every product manager will tell you that writing the ticket description is not the slow part of the project.
 
 Trying to condense all your work into a shared hour of communication is an anti-pattern. Meet together to do the work, delete the status meeting from the calendar. If you’re working together, you don’t need the status meeting. And when you’re together you’ll be doing the hard parts. Once everyone comes to a shared understanding of the problem & solution it will be very clear when they are ready to split up to let their fingers do the rest of the work.
-
----
-
-Previous article in this series: [Work As Imagined](./work-as-imagined.md)
-
-First article in this series: [Go And See](./go-and-see.md)
-

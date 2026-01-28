@@ -48,10 +48,3 @@ If you asked me to paint a picture of what this looks like across a Product Engi
 - Success and Failure belong to the whole team.
 
 Product Engineering is not *all* of Engineering, but it is the organization that needs to spend its energy exploring. Exploration is its own specific kind of activity with its own modus operandi. The rest of Engineering has its own MO, neither is it a cost center either. These organizations *must* mutually reinforce each other.
-
-
----
-
-Previous article in this series: [Go And See](./go-and-see.md)
-
-Next article in this series: [Go And See](./work-as-imagined.md)
