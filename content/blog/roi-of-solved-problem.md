@@ -51,4 +51,7 @@ Product Engineering is not *all* of Engineering, but it is the organization that
 
 
 ---
+
 Previous article in this series: [Go And See](./go-and-see.md)
+
+Next article in this series: [Go And See](./work-as-imagined.md)
