@@ -10,7 +10,7 @@ I am referencing a [well known piece by Fred Hebert](https://ferd.ca/complexity-
 
 > Complexity has to live somewhere. If you are lucky, it lives in well-defined places… With nowhere to go, it has to roam everywhere in your system, both in your code and in people's heads. And as people shift around and leave, our understanding of it erodes.
 
-Most modern software ends up being distributed software. Gone are the days of building a successful business with simple CRUD forms and a database. In a distributed system you need to build abstractions and services that get you guarantees. The only way to do that is to have well-defined places that accept specific inputs and handle every error case gracefully without a loss of data. When the boundaries are drawn wrong and the abstractions leaky, the definitions are incorrect and your data will be inconsistent and recovery is painful. Because the complexity now lies in the interconnectedness of the pieces—not within individual pieces where you can engineer guarantees. Success under leaky abstractions and bad boundaries is often dependent on consistent latency & ordering, which are always at risk in a distributed system.
+Most modern software ends up being distributed software. Gone are the days of building a successful business with simple CRUD forms and a database. In a distributed system you need to build abstractions and services that get you guarantees. The only way to do that is to have well-defined places that accept specific inputs and handle every error case gracefully without a loss of data. When the boundaries are drawn wrong and the abstractions leak, the definitions are incorrect and your data will be inconsistent and recovery is painful. Because the complexity now lies in the interconnectedness of the pieces—not within individual pieces where you can engineer guarantees. Success under leaky abstractions and bad boundaries is often dependent on consistent latency & ordering, which are always at risk in a distributed system.
 
 When I say “writing the software isn’t the hard part operating it is” this is what I am pointing at. The code to perform the function, even a complex one, isn’t that difficult to write. However, making it perform at scale, under load, with varying latencies, without failing in a hard to recover way is what makes the job hard. To me, it also makes the job interesting and worth doing. This is also what makes our businesses valuable. The only reason we can charge for what we build is if it provides value by handling complexity people are willing to pay for.
 
@@ -31,7 +31,7 @@ These four categories are:
 3. System design, multi-year coherence and integration
 4. Long term, regulation, funding, multi-institutional
 
-This is not a hierarchy of expertise or elitism. Everyone working in all of these categories needs to be highly skilled. The vast majority of surgeons and software engineers make a living in category one. Moving from 1-2 into 3-4 turns you back into a “Junior” where you need to re-learn what you’re doing. Because it is a fundamentally different job.
+This is not a hierarchy of expertise or elitism. Everyone working in all of these categories needs to be highly skilled. The vast majority of surgeons and software engineers make a living in category one. Moving from 1-2 into 3-4 turns you back into a “junior” where you need to re-learn what you’re doing. Because it is a fundamentally different job.
 
 > Different kinds of work sit on different inherent time-spans and interdependencies and systems fail when leaders pretend otherwise…
 > 
@@ -57,7 +57,7 @@ Teams need to be constructed to own a problem. The whole of the problem. If you 
 > 
 > What makes Buurtzorg compelling isn’t the absence of managers. It’s that integrative and environmental complexity are absorbed through architecture and ecosystem design rather than a managerial chain
 
-The article goes on to point out that the longest of term work performed by the government and regulatory agencies in the Netherlands is required to create the context in which you can even attempt this kind of organizational operation.
+The article goes on to point out that the longest term work performed by the government and regulatory agencies in the Netherlands is required to create the context in which you can even attempt this kind of organizational operation in the healthcare field!
 
 When I have seen Engineering teams fail repeatedly it is precisely because the conditions for success were not designed for them. They were told to be autonomous, to make decisions; while they lacked information and the people in roles necessary to be successful. All the while all the decisions needed to be run up the chain, and changes would come back down the chain.
 
@@ -69,9 +69,8 @@ When I have seen Engineering teams fail repeatedly it is precisely because the c
 
 When I have seen Engineering teams succeed repeatedly it's because they contained the necessary tools and skills, combined with the information and freedom to make binding decisions. And the responsibility to own & manage those binding decisions themselves.
 
-Many day to day Engineering decisions only impact the short term. After they are made, they disappear into the scenery and are mostly forgotten. Some decisions truly do bind you for years. Teams need the experience and skills to know when they are making that kind of decision. That doesn’t mean they’re going to recognize every single one, or that they’ll make the correct decision every time. We are only human.
+Many day to day Engineering decisions only impact the short term. After the decisions are made, they disappear into the scenery and are mostly forgotten. Some decisions truly do bind you for years. Teams need the experience and skills to know when they are making that kind of decision. That doesn’t mean they’re going to recognize every single one, or that they’ll make the correct decision every time. We are only human.
 
 Teams need the ability to course correct the moment they sense a problem. Even if the decision was made a while ago. Especially if the decision is “load bearing” and limits optionality. To reference my earlier article—we cannot predict the value of what we deliver. Because of that phenomenon we need to retain as much optionality as possible.
 
 The coordination cost of distributing complexity across management layers is too high, too brittle, and too slow. The world keeps speeding up, and the only way to move fast is to construct a system where teams can own complex problems across long time spans.
-
